@@ -7,7 +7,7 @@ html body {
 }
 
 body{
-    background-image: url(../img/fondo4.jpg);
+    /* background-image: url(../img/fondo4.jpg); */
     background-attachment: fixed; 
     background-position: center;
     background-size: cover;
@@ -25,6 +25,7 @@ body{
 .logo{
     height: 75px;
     margin-top: 40px;
+    /* justify-content: center; */
 }
 
 .espaciado{
