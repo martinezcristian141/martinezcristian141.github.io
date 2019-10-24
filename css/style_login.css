@@ -77,7 +77,7 @@ hr.light {
 .container {
     max-width: 450px;
     height: auto;
-    /* background-color:rgba(131, 122, 122, 0.363); */
+    background-color:rgba(131, 122, 122, 0.363);
     margin: auto;
     padding-bottom: 60px;
     margin-bottom: 30px;
