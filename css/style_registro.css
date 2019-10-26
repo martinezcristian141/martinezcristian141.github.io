@@ -140,7 +140,11 @@ h2 span {
 }
 
 .background-1 {
+<<<<<<< HEAD
+    background-image: url(../img/background_registro.jpg);
+=======
     background-image: url(../img/background1.jpg);
+>>>>>>> 1435b9df6c0ad88c3915d6d9528a5b370ddb3ce6
     background-position: 50% 70%;
     background-repeat: no-repeat;
 }
