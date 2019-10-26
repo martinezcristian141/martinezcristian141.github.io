@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
-
 html body {
     height: 100%;
     width: 100%;
     font-family: 'Lato', sans-serif;
 }
+
 .navbar {
     padding: .8rem;
 }
@@ -12,13 +12,14 @@ html body {
 .navbar-nav li {
     padding-right: 20px
 }
+
 .nav-link {
     font-size: 1.1rem !important;
 }
+
 .padding {
     padding-bottom: 1rem;
 }
-
 
 .social a {
     font-size: 3em;
@@ -30,7 +31,8 @@ html body {
 }
 
 .fa-twitter {
-    color: #00aced;;
+    color: #00aced;
+    ;
 }
 
 .fa-instagram {
@@ -40,8 +42,6 @@ html body {
 .fa-youtube {
     color: #bb0000
 }
-
-
 
 footer {
     background-color: #3f3f3f;
@@ -56,15 +56,12 @@ hr.light {
     margin-bottom: 1rem;
 }
 
- hr.light-100 {
+hr.light-100 {
     border-top: 2px solid #d5d5d5;
     width: 100%;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-
-
-
 
 @media (max-width: 992px) {
     .social a {
@@ -73,11 +70,10 @@ hr.light {
     }
 }
 
-
 .container {
     max-width: 450px;
     height: auto;
-    background-color:rgba(131, 122, 122, 0.363);
+    background-color: rgba(131, 122, 122, 0.363);
     margin: auto;
     padding-bottom: 60px;
     margin-bottom: 30px;
@@ -99,7 +95,7 @@ hr.light {
 }
 
 h2 span {
-    font-weight: bold ;
+    font-weight: bold;
     color: white;
     text-shadow: 2px 2px 2px black;
     font-size: 30px;
@@ -115,10 +111,11 @@ h2 span {
 .btn_form {
     display: flex;
     justify-content: space-around;
-    margin-top: 1rem;    
+    margin-top: 1rem;
 }
 
-.btn_submit, .input {
+.btn_submit,
+.input {
     background-color: #efefef;
     padding: .5rem;
     margin: .5rem;
@@ -132,7 +129,7 @@ h2 span {
 }
 
 .btn_submit {
-    width: 40%; 
+    width: 40%;
     border-bottom: none;
     background-color: #31b1e5;
     color: white;
@@ -143,7 +140,7 @@ h2 span {
 }
 
 .background-1 {
-    background-image: url(../img/background1.jpg); 
-    background-position: 50% 70%; 
+    background-image: url(../../img/background1.jpg);
+    background-position: 50% 70%;
     background-repeat: no-repeat;
 }
