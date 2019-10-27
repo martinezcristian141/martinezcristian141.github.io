@@ -106,6 +106,7 @@ h2 span {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    
 }
 
 .btn_form {
@@ -128,10 +129,8 @@ h2 span {
     border-bottom: solid rgb(105, 168, 184) .2rem;
 }
 
-.btn_submit {
+.btn-primary {
     width: 40%;
-    border-bottom: none;
-    background-color: #31b1e5;
     color: white;
 }
 
