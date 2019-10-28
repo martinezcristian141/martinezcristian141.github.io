@@ -150,12 +150,10 @@
         }
         .carousel-caption h1 {
             font-size: 250%;
-            /* text-shadow: 1px 1px 15px #000; */
         }
         .carousel-caption p {
             font-size: 130%;
             font-weight: 400;
-            /* text-shadow: 1px 1px 10px #000; */
             padding: 0.2rem;
         }
         .carousel-caption .btn {
